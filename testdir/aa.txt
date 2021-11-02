@@ -2,8 +2,11 @@ YOOOO
 YYOOOO
 
 first
+<<<<<<< HEAD
 second
 third
+=======
+>>>>>>> parent of 49e01b5 (added second and new file)
 
 asdf
 sdsd
