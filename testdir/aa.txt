@@ -9,12 +9,8 @@ third
 >>>>>>> parent of 49e01b5 (added second and new file)
 
 asdf
-<<<<<<< HEAD
 sdsd
 
 HAHAHA
 
 OHOHO
-=======
-sdsd
->>>>>>> parent of f6942f2 (added text and deleted 2 files)
