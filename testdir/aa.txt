@@ -12,5 +12,3 @@ asdf
 sdsd
 
 HAHAHA
-
-OHOHO
